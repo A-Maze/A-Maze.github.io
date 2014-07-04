@@ -83,6 +83,11 @@ body,html{
 	
 }
 
+#footer{
+	background-color:#242525;
+	height:5%;
+}
+
 #get_app:hover {
 
     text-decoration: none;
@@ -119,9 +124,7 @@ body,html{
 	padding:1%;
 }
 
-#about .step p{
-	font-size:0.6em;
-}
+
 
 #about .step img{
 	width:40%;
@@ -188,7 +191,7 @@ body,html{
 }
 
 #about .step p{
-	font-size:0.6em;
+	font-size:0.8em;
 	width:60%;
 	margin:0 auto;
 }
