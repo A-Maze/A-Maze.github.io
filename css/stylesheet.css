@@ -124,17 +124,18 @@ body,html{
 	margin-top:1%;
 	width:90%;
 	float:left;
-	margin-left:5%;
-	margin-right:5%;
+	margin:0 auto;
 	padding:1%;
 }
 
 #head{
 	overflow:auto;
+	padding-top:2%;
+	padding-bottom:2%;
 }
 #head .phone{
 	width:90%;
-	margin-left:5%;
+	margin:0 auto;
 	float:left;
 	background:transparent;
 }
