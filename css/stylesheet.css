@@ -124,6 +124,10 @@ body,html{
 	padding:1%;
 }
 
+#about .step p{
+	font-size:16px;
+}
+
 
 
 #about .step img{
@@ -191,7 +195,6 @@ body,html{
 }
 
 #about .step p{
-	font-size:0.8em;
 	width:60%;
 	margin:0 auto;
 }
