@@ -149,6 +149,7 @@ body,html{
 #head{
 	height:1600px;
 	padding-top:5%;
+	margin:0;
 	padding-bottom:5%;
 }
 
