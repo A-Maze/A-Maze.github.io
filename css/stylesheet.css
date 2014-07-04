@@ -120,6 +120,9 @@ body,html{
 }
 
 @media(max-width:1000px){
+body,html{
+height:auto;
+}
 #about .step{
 	margin-top:1%;
 	width:90%;
