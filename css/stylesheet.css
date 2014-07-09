@@ -36,9 +36,22 @@ body,html{
 	
 
 #head .phone{
-	width:45%;
+	margin-top:3%;
+	margin-right:10%;
+	width:20%;
+	height:100%;
+	background: url("../images/phonecontainer.png") no-repeat;
+	background-size: contain;
 	float:right;
-	background:transparent;
+	z-index:10;
+	overflow:hidden;
+}
+
+#head .phone .rslides{
+	height:100%;
+	width:86%;
+	margin-left:7%;
+	margin-top:19%;
 }
 
 
@@ -110,6 +123,10 @@ body,html{
 	height:auto;
 }
 
+
+
+
+
 #about{
 	text-align:center;
 	padding-top:3%;
@@ -164,7 +181,8 @@ body,html{
 #head .phone{
 	width:100%;
 	float:left;
-	background:transparent;
+	background: url("../images/phonecontainer.png") no-repeat;
+	background-size: contain;
 }
 
 #head .text{
